@@ -1,0 +1,90 @@
+Directory contents of:
+C:\Users\SecretTems\Documents\obsidian-stuff\obsidian-stuff-1\
+
+Folder PATH listing
+Volume serial number is 00000199 A4E4:07EC
+C:\USERS\SECRETTEMS\DOCUMENTS\OBSIDIAN-STUFF\OBSIDIAN-STUFF-1
+|   .gitignore
+|   404.html
+|   about.markdown
+|   directory_visual.txt
+|   filechecker_bat.bat
+|   Gemfile
+|   Gemfile.lock
+|   index.markdown
+|   index.md
+|   README.md
+|   _config.yml
+|   
++---.obsidian
+|   |   app.json
+|   |   appearance.json
+|   |   community-plugins.json
+|   |   core-plugins.json
+|   |   types.json
+|   |   workspace.json
+|   |   
+|   \---plugins
+|       +---dataview
+|       |       main.js
+|       |       manifest.json
+|       |       styles.css
+|       |       
+|       +---editing-toolbar
+|       |       data.json
+|       |       main.js
+|       |       manifest.json
+|       |       styles.css
+|       |       
+|       +---obsidian-git
+|       |       data.json
+|       |       main.js
+|       |       manifest.json
+|       |       obsidian_askpass.sh
+|       |       styles.css
+|       |       
+|       +---obsidian-kanban
+|       |       main.js
+|       |       manifest.json
+|       |       styles.css
+|       |       
+|       +---obsidian-tasks-plugin
+|       |       main.js
+|       |       manifest.json
+|       |       styles.css
+|       |       
+|       +---table-editor-obsidian
+|       |       data.json
+|       |       main.js
+|       |       manifest.json
+|       |       styles.css
+|       |       
+|       \---templater-obsidian
+|               main.js
+|               manifest.json
+|               styles.css
+|               
++---Pirating Stuff
++---_posts
+|       2026-09-05-welcome-to-jekyll.markdown
+|       
+\---_site
+    |   404.html
+    |   feed.xml
+    |   index.html
+    |   README.md
+    |   
+    +---about
+    |       index.html
+    |       
+    +---assets
+    |       main.css
+    |       minima-social-icons.svg
+    |       
+    \---jekyll
+        \---update
+            \---2026
+                \---09
+                    \---05
+                            welcome-to-jekyll.html
+                            
